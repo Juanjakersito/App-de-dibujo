@@ -1,0 +1,28 @@
+.colors{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.actual_color{
+    border-radius: 10%;
+    width: 35px;
+    height: 35px;
+    border: 2px solid white;
+    margin-right: 10px;
+
+    background-color: black;
+
+}
+
+.colors_container{
+    display: grid;
+    grid-template-columns: repeat(9,1fr);
+    grid-gap: 3px;
+}
+.color_button{
+border: 1px solid black;
+width: 20px;
+height: 20px;
+border-radius: 10%;
+}

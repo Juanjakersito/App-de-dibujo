@@ -1,0 +1,20 @@
+export const colores=[
+    'pink',
+    'brown',
+    'blue',
+    'green',
+    'purple',
+    'orange',
+    'teal',
+    'magenta',
+    'lightblue',
+    'chartreuse',
+    'plum',
+    'salmon',
+    'red',
+    'aqua',
+    'yellow',
+    'darkslateblue',
+    'black',
+    'white'
+]
